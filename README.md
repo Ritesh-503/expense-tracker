@@ -36,6 +36,10 @@ Users can enter the expense name, amount, and category.
 - **SharedPreferences**
 - **JSON**
 
+## 📱 Download
+
+[⬇️ Download Expense Tracker APK](https://github.com/Ritesh-503/expense-tracker/raw/refs/heads/main/Expense%20Tracker.apk)
+
 ## 📂 Project Structure
 
 ```text
